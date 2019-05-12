@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**,REF**,REF**";"MountingHole_3.2mm_M3_ISO7380";3;"MountingHole_3.2mm_M3_ISO7380";;;
+2;"REF**";"OSHW-Logo2_7.3x6mm_Copper";1;"OSHW-Logo2_7.3x6mm_Copper";;;
+3;"SiPM,Input";"Fiducial_1mm_Dia_2.54mm_Outer_CopperTop";2;"Fiducial_1mm_Dia_2.54mm_Outer_CopperTop";;;
+4;"D8";"Ketek_PM3325-WB";1;"D_SiPM";;;
+5;"J6,J2,J1";"PinSocket_1x04_P2.54mm_Vertical";3;"Conn_01x04_Male";;;
+6;"J5,J3";"PinSocket_1x02_P2.54mm_Vertical";2;"Conn_01x02_Male";;;
+7;"D11,D10,D9,D7,D6,D5,D4,D3,D2,D1";"SOT-323_SC-70";10;"BAT54SW";;;
+8;"C21,C20,C19,C18,C17,C14,C13,C12,C11,C10,C9,C8,C7,C6,C5,C4,C3,C2,C1";"C_0603_1608Metric";19;"10u";;;
+9;"J4";"SMA_Molex_73251-1153_EdgeMount_Horizontal";1;"Conn_Coaxial";;;
+10;"R4,R3";"R_0603_1608Metric";2;"1k";;;
+11;"R2";"R_0603_1608Metric";1;"180";;;
+12;"R1";"R_0603_1608Metric";1;"10k";;;
+13;"C16,C15";"C_0603_1608Metric";2;"1u";;;
+14;"Q1";"SOT-23";1;"BSS123";;;
